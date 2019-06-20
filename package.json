@@ -4,7 +4,8 @@
   "description": "browser based invoker spell trainer",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js -o"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/nirmalkrishnav/invoker-trainer/issues"
   },
-  "homepage": "https://github.com/nirmalkrishnav/invoker-trainer#readme"
+  "homepage": "https://github.com/nirmalkrishnav/invoker-trainer#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
