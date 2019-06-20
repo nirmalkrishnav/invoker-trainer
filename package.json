@@ -1,0 +1,28 @@
+{
+  "name": "invoker-trainer",
+  "version": "1.0.0",
+  "description": "browser based invoker spell trainer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirmalkrishnav/invoker-trainer.git"
+  },
+  "keywords": [
+    "invoker",
+    "dota",
+    "trainer",
+    "combo",
+    "caster",
+    "spells",
+    "gaming"
+  ],
+  "author": "Nirmal Krishna Venkatraman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nirmalkrishnav/invoker-trainer/issues"
+  },
+  "homepage": "https://github.com/nirmalkrishnav/invoker-trainer#readme"
+}
