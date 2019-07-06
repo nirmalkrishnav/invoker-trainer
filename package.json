@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/nirmalkrishnav/invoker-trainer#readme",
   "dependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "pixi.js": "^5.0.4"
   }
 }
